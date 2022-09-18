@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando como freelancer 
 
-- ⚡ Entusiasta no mundo da programação
+- ⚡ Entusiasta no mundo da programação 😜
 
 - 👨‍💻 Projetos : [Behance](https://www.behance.net/tiagosantos67)
 
