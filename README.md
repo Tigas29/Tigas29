@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Tigas29/c1363bcada90f6bc9d101f7b676e1faf/raw/1def7bee4ae440246f10fb8e4d6da3a2dd9ca2e1/cards.svg"/> <br> <br>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Tigas29/c1363bcada90f6bc9d101f7b676e1faf/raw/d068d1dfa51246da0e211861d0e5bd2878fc41cd/cards.svg"/> 
 <h1 align="left">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Tiago Santos</h1>
 
 - 🔥 Desenvolvedor Front End Junior & Designer
@@ -24,7 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-
+<br> <br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
