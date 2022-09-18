@@ -31,13 +31,11 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Tigas29&show_icons=true&theme=vision-friendly-dark" alt="Tigas29's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigas29&layout=compact&theme=vision-friendly-dark" alt="Tigas29's most languages"/>
 </p>
--->
+
 
 <br><br>
 
 ## Contato
-
-
 
 <a href="https://www.linkedin.com/in/tiagosantos-dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Tiago Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
