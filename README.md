@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando como freelancer 
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Entusiasta no mundo da programação
 
 - 👨‍💻 Projetos : [Behance](https://www.behance.net/tiagosantos67)
 
