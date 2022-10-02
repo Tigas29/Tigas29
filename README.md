@@ -35,7 +35,7 @@
 
 <br><br>
 
-## Contato
+## <h1>Contato</h1>
 
 <a href="https://www.linkedin.com/in/tiagosantos-dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Tiago Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
