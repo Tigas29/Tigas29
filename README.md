@@ -1,14 +1,14 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Tigas29/c1363bcada90f6bc9d101f7b676e1faf/raw/d068d1dfa51246da0e211861d0e5bd2878fc41cd/cards.svg"/>  -->
 
-<h1 align="left">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Tiago Santos</h1>
+<h1 align="left">Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tiago Santos</h1>
 
-- 🔥 Desenvolvedor Front End Junior & Designer
+- 🔥 Javascript Developer
 
-- 🔭 Atualmente estou trabalhando como freelancer 
+- 🔭 Working at Celebrare Marketing Agency
 
-- ⚡ Entusiasta no mundo da programação 😜
+- ⚡ Code, UI/UX and coffe ☕
 
-- 👨‍💻 Projetos : [Behance](https://www.behance.net/tiagosantos67)
+- 👨‍💻 Projects : [Behance](https://www.behance.net/tiagosantos67)
 
 
 
