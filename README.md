@@ -1,4 +1,4 @@
-![Boas vindas ao meu Github](assets/capa.png)
+![Boas vindas ao meu Github](https://github.com/Tigas29/Tigas29/assets/99817555/e2b98f52-d29b-48db-b456-b4e4f2f53385)
 
 ## 👩‍💻 Quem sou eu 👩‍💻
 
