@@ -1,4 +1,4 @@
-![Boas vindas ao meu Github](assets/capa.png)
+![Boas vindas ao meu Github](https://github.com/Tigas29/Tigas29/assets/99817555/e2b98f52-d29b-48db-b456-b4e4f2f53385)
 
 ## 👩‍💻 Quem sou eu 👩‍💻
 
@@ -12,7 +12,7 @@ Olá, meu nome é Tiago Santos! Sou desenvolvedor JavaScript na Agência Celebra
 
 🤖 Projetos para problemas reais
 
-📑️ Meus trabalhos de cursos
+📑️ Meus cursos de cursos
 
 🖥️ Alguns códigos aleatórios
 
@@ -47,6 +47,13 @@ Olá, meu nome é Tiago Santos! Sou desenvolvedor JavaScript na Agência Celebra
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=Tigas29&theme=nord&column=6&row=1&margin-w=10)
  
 </div>
+
+
+  <div align="center">  
+    
+![Snake animation](https://github.com/Tigas29/Tigas29/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>    
 
 ## 💎 Conecte-se comigo! 💎
 
