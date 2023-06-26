@@ -12,7 +12,7 @@ Olá, meu nome é Tiago Santos! Sou desenvolvedor JavaScript na Agência Celebra
 
 🤖 Projetos para problemas reais
 
-📑️ Meus cursos de cursos
+📑️ Meus projetos de cursos
 
 🖥️ Alguns códigos aleatórios
 
