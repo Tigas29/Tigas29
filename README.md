@@ -49,11 +49,6 @@ Olá, meu nome é Tiago Santos! Sou desenvolvedor JavaScript na Agência Celebra
 </div>
 
 
-  <div align="center">  
-    
-![Snake animation](https://github.com/Tigas29/Tigas29/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>    
 
 ## 💎 Conecte-se comigo! 💎
 
