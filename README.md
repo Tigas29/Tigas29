@@ -1,50 +1,53 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Tigas29/c1363bcada90f6bc9d101f7b676e1faf/raw/d068d1dfa51246da0e211861d0e5bd2878fc41cd/cards.svg"/>  -->
+![Boas vindas ao meu Github](imagens/capa.gif)
 
-<h1 align="left">Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tiago Santos</h1>
+## 👩‍💻 Quem sou eu 👩‍💻
 
-- 🔥 Javascript Developer
+Olá, meu nome é Tiago Santos! Sou desenvolvedor JavaScript na Agência Celebrare e também atuo como designer UI/UX de forma autônoma. Tenho um portfólio onde você pode conferir alguns dos meus trabalhos: [portifolio]( https://www.behance.net/tiagosantos67). Sou criador de diversos repositórios com projetos reais. Fique à vontade para explorar e conhecer mais sobre o meu trabalho! 😁
 
-- 🔭 Working at Celebrare Marketing Agency
+## 🗂️ O que você encontra no meu Github 🗂️
 
-- ⚡ Code, UI/UX and coffe ☕
+⚡ Códgio, UI/UX e muito café ☕
 
-- 👨‍💻 Projects : [Behance](https://www.behance.net/tiagosantos67)
+👩‍💻 Projetos de frontend
 
+🤖 Projetos para problemas reais
 
+📑️ Meus trabalhos de cursos
 
-<br><br>
-
-## 🛠 &nbsp; Hards Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-<br> <br>
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Tigas29&show_icons=true&theme=vision-friendly-dark" alt="Tigas29's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigas29&layout=compact&theme=vision-friendly-dark" alt="Tigas29's most languages"/>
-</p>
+🖥️ Alguns códigos aleatórios
 
 
-<br><br>
+## 🌟 Tecnologias que estou utilizando mais no momento 🌟
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-## <h1>Contato</h1>
+## ⭐ Tecnologias que eu já estudei ⭐
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## 📊 Status sobre o que eu ando fazendo por aqui 📊
+<div align = "center">
+ 
+![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tigas29&theme=nord_dark) 
+ 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Tigas29&theme=nord&column=6&row=1&margin-w=10)
+ 
+</div>
 
-<a href="https://www.linkedin.com/in/tiagosantos-dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Tiago Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/_santostiagoo/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Tiago Santos-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 
-</p>
-
+## 💎 Conecte-se comigo! 💎
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zmc1jiimqtczpij7k616u3ebc?si=1102e855618e4862)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagosantos-dev/)
+[![Behance](https://img.shields.io/badge/Behance-053EFF?&style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tiagosantos67)
 
