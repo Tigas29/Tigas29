@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Quem sou eu 👩‍💻
 
-Olá, meu nome é Tiago Santos! Sou desenvolvedor JavaScript na Agência Celebrare e também atuo como designer UI/UX de forma autônoma. Tenho um portfólio onde você pode conferir alguns dos meus trabalhos: [portifolio](https://www.behance.net/tiagosantos67). Sou criador de diversos repositórios com projetos reais. Fique à vontade para explorar e conhecer mais sobre o meu trabalho! 😁
+Olá, meu nome é Tiago Santos! Sou desenvolvedor Fron-End Junior na Agência Celebrare e também atuo como designer UI/UX de forma autônoma. Tenho um portfólio onde você pode conferir alguns dos meus trabalhos: [portifolio](https://www.behance.net/tiagosantos67). Sou criador de diversos repositórios com projetos reais. Fique à vontade para explorar e conhecer mais sobre o meu trabalho! 😁
 
 ## 🗂️ O que você encontra no meu Github 🗂️
 
