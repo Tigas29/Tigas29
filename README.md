@@ -14,7 +14,7 @@ Olá, meu nome é Tiago Santos! Sou desenvolvedor Fron-End Junior na Agência Ce
 
 📑️ Meus projetos de cursos
 
-🖥️ Alguns códigos aleatórios
+🖥️ Algumas aplicações para a web
 
 ## 🌟 Tecnologias que estou utilizando mais no momento 🌟
 
